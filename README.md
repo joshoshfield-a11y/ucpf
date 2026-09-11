@@ -46,6 +46,7 @@ for r in results:
 | `power` | Power system architecture |
 | `falsification` | Six quantitative experiments |
 | `constants` | Physical constants in SI units |
+| `spectral` | Spectral coupling efficiency (bandwidth) |
 | `utils` | Helper functions |
 
 ## Key Findings
@@ -54,6 +55,7 @@ for r in results:
 - **Plasma wakefield:** only mechanism with macroscopic potential
 - **Microwave discharge:** leading ionization candidate
 - **Beamed power:** only viable power architecture within known physics
+- **Spectral coupling efficiency** — formalizes the 'bandwidth' insight
 - **Six falsification experiments** with quantitative thresholds
 
 ## Documentation

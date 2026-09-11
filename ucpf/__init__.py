@@ -43,6 +43,7 @@ from . import plasma
 from . import ionization
 from . import power
 from . import falsification
+from . import spectral
 from . import utils
 
 __all__ = [
@@ -53,5 +54,6 @@ __all__ = [
     "ionization",
     "power",
     "falsification",
+    "spectral",
     "utils",
 ]
