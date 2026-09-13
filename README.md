@@ -1,6 +1,6 @@
 # UCPF — Universal Consciousness and Physics Framework
 
-**Version:** 10.1.0  
+**Version:** 10.2.0  
 **License:** MIT  
 **Authors:** UPE-78 Research Collective
 
@@ -65,7 +65,7 @@ Full research documentation, visualizations, and session logs are maintained in 
 ## Citation
 
 ```
-UPE-78 Research Collective (2026). UCPF v10.1: Universal Consciousness 
+UPE-78 Research Collective (2026). UCPF v10.2: Universal Consciousness 
 and Physics Framework. https://github.com/joshoshfield-a11y/ucpf
 ```
 
