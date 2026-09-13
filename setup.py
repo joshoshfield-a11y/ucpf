@@ -10,7 +10,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="ucpf",
-    version="10.1.0",
+    version="10.2.0",
     author="UPE-78 Research Collective",
     author_email="research@upe78.system",
     description="A rigorous, falsifiable framework for anomalous propulsion and vacuum-coupled phenomena",
