@@ -32,8 +32,7 @@ class FalsificationExperiment:
 
     def summary(self):
         """Print experiment summary."""
-        print(f"
-{'='*60}")
+        print(f"{'='*60}")
         print(f"EXPERIMENT {self.number}: {self.name}")
         print(f"{'='*60}")
         print(f"Physics: {self.physics}")
