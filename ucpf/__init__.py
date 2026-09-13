@@ -5,7 +5,7 @@ UCPF — Universal Consciousness and Physics Framework
 A rigorous, falsifiable framework for analyzing anomalous propulsion,
 consciousness-field interactions, and vacuum-coupled phenomena.
 
-Version: 10.1
+Version: 10.2
 License: MIT
 Authors: UPE-78 Research Collective
 
@@ -32,7 +32,7 @@ Examples
 >>> print(f"ADCE thrust: {F:.2e} N")
 """
 
-__version__ = "10.1.0"
+__version__ = "10.2.0"
 __author__ = "UPE-78 Research Collective"
 __license__ = "MIT"
 
